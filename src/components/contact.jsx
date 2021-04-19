@@ -151,8 +151,8 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2020 Tommy, All rights reserved. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
+            <a href='#' rel='nofollow'>
+              Me
             </a>
           </p>
         </div>
